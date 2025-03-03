@@ -1,1 +1,1 @@
-/*CommitVerify=true */ select 1
+/*commitVerify=true */ select 1
