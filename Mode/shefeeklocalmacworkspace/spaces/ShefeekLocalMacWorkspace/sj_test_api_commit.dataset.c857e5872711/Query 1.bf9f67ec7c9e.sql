@@ -1,1 +1,1 @@
-select 1
+/*CommitVerify=true */ select 1
