@@ -1,1 +1,1 @@
-/*testing from local for huddle */select 1;
+/*testing committed as user a*/select 1;
