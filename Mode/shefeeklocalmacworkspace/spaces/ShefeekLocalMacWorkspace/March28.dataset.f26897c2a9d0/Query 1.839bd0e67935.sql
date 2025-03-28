@@ -1,1 +1,1 @@
-/*With api based commit */ select 1;
+/*With api based commit 1*/ select 1;
