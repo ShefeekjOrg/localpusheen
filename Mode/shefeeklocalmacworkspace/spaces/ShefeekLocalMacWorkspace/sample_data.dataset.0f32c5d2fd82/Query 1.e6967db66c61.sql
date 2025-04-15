@@ -1,4 +1,4 @@
-/*dsdsssdsddsdsddcdsadfsdsssdefsgffgfgdsdfdfsssd*/ SELECT * FROM (VALUES
+/*dsdsssdsddsdsddcdsadfsdfdsssdefsgffgfgdsdfdfsssd*/ SELECT * FROM (VALUES
     (1, 2, 'Manager'),
     (1, 3, 'Manager'),
     (2, 4, 'Mentor'),
