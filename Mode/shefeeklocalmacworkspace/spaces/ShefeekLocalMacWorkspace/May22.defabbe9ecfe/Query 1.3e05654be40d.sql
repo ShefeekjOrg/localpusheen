@@ -1,1 +1,0 @@
-/*sdsdss*/select 1
